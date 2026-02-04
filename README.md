@@ -1,4 +1,4 @@
-## Resultado de analise do meu laotop
+## Resultado de analise do meu laptop
 
 ```
 === Verificação de Compatibilidade para LLMs ===
